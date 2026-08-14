@@ -1,5 +1,5 @@
 # 💫 Hey, I am Md. Manam Khan 😁
-**A passionate C++ Programmer who loves to teach, solve problems, lead and build things!**
+**A passionate Competitive Programmer who is beginning to transition into Software Development.**
 
 Email Me 👉 ✉️ **manamkhan921@gmail.com**
 
