@@ -14,7 +14,7 @@ I enjoy turning ideas into working projects, learning through implementation, an
 
 ## 🚀 What I'm Up To
 
-- 🔭 **Currently working on:** YouTube Front Page Clone
+- 🔭 **Currently working on:** CakeCraft: An interactive cake building website.
 - 🌱 **Currently learning:** Web Development
 - 🧠 **Focused on:** Competitive Programming & Software Development
 - ⚙️ **Interested in:** C++, Algorithms, Backend Development & Databases
