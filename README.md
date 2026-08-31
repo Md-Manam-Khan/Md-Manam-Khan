@@ -1,84 +1,118 @@
-# 👋 Hi, I'm Md. Manam Khan
+<div align="center">
 
-### 💻 Competitive Programmer → Software Developer
+# Hi there, I'm Md. Manam Khan 👋
 
-I’m a CSE undergraduate who enjoys **Competitive Programming, problem solving, teaching, leading and building software**.
+### Competitive Programmer → Software Developer
 
-Currently, I’m strengthening my foundations in **C++ and Data Structures & Algorithms** while expanding into **Web Development and Backend Engineering**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B8DEE&center=true&vCenter=true&width=600&lines=Solving+problems+one+contest+at+a+time;Building+things+that+actually+ship;CSE+Undergraduate+%7C+C%2B%2B+%7C+DSA;Currently+diving+into+Web+%26+Backend+Dev" alt="Typing SVG" />
 
-I enjoy turning ideas into working projects, learning through implementation, and continuously improving my problem-solving skills.
-
-📧 **Email:** manamkhan921@gmail.com
+</div>
 
 ---
 
-## 🚀 What I'm Up To
+### 🧭 About Me
 
-- 🔭 **Currently working on:** CakeCraft: An interactive cake building website.
-- 🌱 **Currently learning:** Web Development
-- 🧠 **Focused on:** Competitive Programming & Software Development
-- ⚙️ **Interested in:** C++, Algorithms, Backend Development & Databases
+I'm a CSE undergraduate who genuinely enjoys **competitive programming, problem solving, teaching, leading, and building software**. Right now I'm strengthening my foundations in **C++ and Data Structures & Algorithms** while expanding into **Web Development and Backend Engineering**.
 
----
+I like turning ideas into working projects, learning through implementation rather than just theory, and treating every bug as a small lesson rather than a setback.
 
-## 🌐 Connect With Me
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pvb8z7PFva)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Manam.the.Wildfire)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/manam_the_wildfire)
+📧 **Reach me at:** [manamkhan921@gmail.com](mailto:manamkhan921@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+### 🚀 What I'm Up To
 
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-
-### Web & Database
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+```yaml
+Currently Building:  CakeCraft — an interactive cake-building website
+Currently Learning:  Web Development
+Currently Focused:   Competitive Programming & Software Development
+Curious About:       Algorithms, Backend Engineering & Databases
+```
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Let's Connect
 
-![](https://github-readme-stats.shion.dev/api?username=Md-Manam-Khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=Md-Manam-Khan&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Md-Manam-Khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Md-Manam-Khan&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 📈 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Md-Manam-Khan&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
----
-
-<p align="center">
-  <i>“Solve problems. Build things. Keep improving.”</i>
+<p align="left">
+  <a href="https://discord.gg/pvb8z7PFva">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://facebook.com/Manam.the.Wildfire">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/manam_the_wildfire">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Md-Manam-Khan&icon=0&color=0" alt="Profile Views">
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 </p>
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+**Web & Database**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+**Tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Md-Manam-Khan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" width="49%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Md-Manam-Khan&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Md-Manam-Khan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="55%" alt="Top Languages"/>
+</div>
+
+---
+
+### 🏆 Trophy Case
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Md-Manam-Khan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 📈 Top Contributed Repositories
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Md-Manam-Khan&limit=5&theme=nord&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+</div>
+
+---
+
+<div align="center">
+
+*"Solve problems. Build things. Keep improving."*
+
+<img src="https://komarev.com/ghpvc/?username=Md-Manam-Khan&style=flat-square&color=5b8dee" alt="Profile Views"/>
+
+<sub>Crafted with care — powered by <a href="https://gprm.itsvg.in">GPRM</a></sub>
+
+</div>
