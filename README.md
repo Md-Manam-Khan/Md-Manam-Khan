@@ -78,32 +78,20 @@ Curious About:       Algorithms, Backend Engineering & Databases
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Md-Manam-Khan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" width="49%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Md-Manam-Khan&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Md-Manam-Khan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="55%" alt="Top Languages"/>
-</div>
+## 📊 GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=Md-Manam-Khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![](https://streak-stats.demolab.com/?user=Md-Manam-Khan&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Md-Manam-Khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
-### 🏆 Trophy Case
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Md-Manam-Khan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Md-Manam-Khan&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-### 📈 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Md-Manam-Khan&limit=5&theme=nord&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
-</div>
+## 📈 Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=Md-Manam-Khan&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
 
