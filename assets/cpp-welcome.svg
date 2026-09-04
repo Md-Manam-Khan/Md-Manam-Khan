@@ -11,35 +11,35 @@
   <text x="426" y="23" fill="#58a6ff" font-size="12" text-anchor="middle" font-weight="bold">C++17</text>
   <g font-size="17">
     <text x="18" y="66" fill="#484f58" font-size="15">01</text>
-    <clipPath id="c1"><rect x="0" y="52" width="0" height="20"><animate attributeName="width" from="0" to="420" dur="0.15s" begin="0.05s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c1"><rect x="0" y="52" width="0" height="20"><animate attributeName="width" from="0" to="420" dur="0.225s" begin="0.075s" fill="freeze"/></rect></clipPath>
     <g clip-path="url(#c1)"><text x="52" y="66"><tspan fill="#ff7b72">#include</tspan><tspan fill="#a5d6ff"> &lt;bits/stdc++.h&gt;</tspan></text></g>
     <text x="18" y="94" fill="#484f58" font-size="15">02</text>
-    <clipPath id="c2"><rect x="0" y="80" width="0" height="20"><animate attributeName="width" from="0" to="420" dur="0.12s" begin="0.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="80" width="0" height="20"><animate attributeName="width" from="0" to="420" dur="0.18s" begin="0.3s" fill="freeze"/></rect></clipPath>
     <g clip-path="url(#c2)"><text x="52" y="94"><tspan fill="#ff7b72">using namespace</tspan><tspan fill="#d2a8ff"> std</tspan><tspan fill="#c9d1d9">;</tspan></text></g>
     <text x="18" y="122" fill="#484f58" font-size="15">03</text>
-    <clipPath id="c3"><rect x="0" y="108" width="0" height="20"><animate attributeName="width" from="0" to="420" dur="0.1s" begin="0.35s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="108" width="0" height="20"><animate attributeName="width" from="0" to="420" dur="0.15s" begin="0.525s" fill="freeze"/></rect></clipPath>
     <g clip-path="url(#c3)"><text x="52" y="122"><tspan fill="#ff7b72">int</tspan><tspan fill="#d2a8ff"> main</tspan><tspan fill="#c9d1d9">()</tspan></text></g>
     <text x="18" y="150" fill="#484f58" font-size="15">04</text>
-    <clipPath id="c4"><rect x="0" y="136" width="0" height="20"><animate attributeName="width" from="0" to="420" dur="0.05s" begin="0.48s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="0" y="136" width="0" height="20"><animate attributeName="width" from="0" to="420" dur="0.075s" begin="0.72s" fill="freeze"/></rect></clipPath>
     <g clip-path="url(#c4)"><text x="52" y="150" fill="#c9d1d9">{</text></g>
     <text x="18" y="178" fill="#484f58" font-size="15">05</text>
-    <clipPath id="c5"><rect x="0" y="164" width="0" height="20"><animate attributeName="width" from="0" to="420" dur="0.2s" begin="0.58s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="0" y="164" width="0" height="20"><animate attributeName="width" from="0" to="420" dur="0.3s" begin="0.87s" fill="freeze"/></rect></clipPath>
     <g clip-path="url(#c5)"><text x="52" y="178" xml:space="preserve"><tspan fill="#c9d1d9">    </tspan><tspan fill="#79c0ff">cout</tspan><tspan fill="#ff7b72"> &lt;&lt; </tspan><tspan fill="#a5d6ff">"Welcome to Md-Manam-Khan"</tspan><tspan fill="#c9d1d9">;</tspan></text></g>
     <text x="18" y="206" fill="#484f58" font-size="15">06</text>
-    <clipPath id="c6"><rect x="0" y="192" width="0" height="20"><animate attributeName="width" from="0" to="420" dur="0.15s" begin="0.83s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c6"><rect x="0" y="192" width="0" height="20"><animate attributeName="width" from="0" to="420" dur="0.225s" begin="1.245s" fill="freeze"/></rect></clipPath>
     <g clip-path="url(#c6)"><text x="52" y="206" xml:space="preserve"><tspan fill="#c9d1d9">    </tspan><tspan fill="#ff7b72">return</tspan><tspan fill="#79c0ff"> 0</tspan><tspan fill="#c9d1d9">;</tspan></text></g>
     <text x="18" y="234" fill="#484f58" font-size="15">07</text>
-    <clipPath id="c7"><rect x="0" y="220" width="0" height="20"><animate attributeName="width" from="0" to="420" dur="0.05s" begin="1.02s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c7"><rect x="0" y="220" width="0" height="20"><animate attributeName="width" from="0" to="420" dur="0.075s" begin="1.53s" fill="freeze"/></rect></clipPath>
     <g clip-path="url(#c7)"><text x="52" y="234" fill="#c9d1d9">}</text></g>
   </g>
   <line x1="14" y1="252" x2="466" y2="252" stroke="#21262d" stroke-width="1"/>
-  <clipPath id="cout"><rect x="0" y="264" width="0" height="24"><animate attributeName="width" from="0" to="420" dur="0.2s" begin="1.12s" fill="freeze"/></rect></clipPath>
+  <clipPath id="cout"><rect x="0" y="264" width="0" height="24"><animate attributeName="width" from="0" to="420" dur="0.3s" begin="1.68s" fill="freeze"/></rect></clipPath>
   <g font-size="16" clip-path="url(#cout)">
     <text x="18" y="280" fill="#3fb950" font-weight="bold">&gt;</text>
     <text x="40" y="280" fill="#3fb950">Welcome to Md-Manam-Khan</text>
   </g>
   <rect x="280" y="266" width="9" height="17" fill="#3fb950" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="1.32s" dur="0.01s" fill="freeze"/>
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" begin="1.32s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.98s" dur="0.01s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" begin="1.98s" repeatCount="indefinite"/>
   </rect>
 </svg>
