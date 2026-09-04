@@ -36,6 +36,9 @@ Curious About:       Algorithms, Backend Engineering & Databases
 ### 🌐 Let's Connect
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/md-manam-khan-41b94b3b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://discord.gg/pvb8z7PFva">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
   </a>
@@ -59,7 +62,6 @@ Curious About:       Algorithms, Backend Engineering & Databases
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 </p>
 
 **Web & Database**
@@ -80,20 +82,17 @@ Curious About:       Algorithms, Backend Engineering & Databases
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=Md-Manam-Khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Md-Manam-Khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://streak-stats.demolab.com/?user=Md-Manam-Khan&theme=tokyonight&hide_border=false)
 
----
+<img src="https://github-readme-stats.shion.dev/api?username=Md-Manam-Khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Md-Manam-Khan&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://streak-stats.demolab.com/?user=Md-Manam-Khan&theme=tokyonight&hide_border=false" />
 
----
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Md-Manam-Khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
-## 📈 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Md-Manam-Khan&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
@@ -102,7 +101,5 @@ Curious About:       Algorithms, Backend Engineering & Databases
 *"Solve problems. Build things. Keep improving."*
 
 <img src="https://komarev.com/ghpvc/?username=Md-Manam-Khan&style=flat-square&color=5b8dee" alt="Profile Views"/>
-
-<sub>Crafted with care — powered by <a href="https://gprm.itsvg.in">GPRM</a></sub>
 
 </div>
