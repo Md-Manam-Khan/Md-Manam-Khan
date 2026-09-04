@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B8DEE&center=true&vCenter=true&width=600&lines=Solving+problems+one+contest+at+a+time;Building+things+that+actually+ship;CSE+Undergraduate+%7C+C%2B%2B+%7C+DSA;Currently+diving+into+Web+%26+Backend+Dev" alt="Typing SVG" />
 
+<img src="./assets/cpp-welcome.svg" alt="Introduction Animation" width="660"/>
+
 </div>
 
 ---
@@ -80,8 +82,8 @@ Curious About:       Algorithms, Backend Engineering & Databases
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=Md-Manam-Khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=Md-Manam-Khan&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Md-Manam-Khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=Md-Manam-Khan&theme=tokyonight&hide_border=false)
 
 ---
 
