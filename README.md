@@ -90,7 +90,7 @@ Curious About:       Algorithms, Backend Engineering & Databases
 
 <img src="https://streak-stats.demolab.com/?user=Md-Manam-Khan&theme=tokyonight&hide_border=false" />
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Md-Manam-Khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Md-Manam-Khan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" />
 
 </div>
 
