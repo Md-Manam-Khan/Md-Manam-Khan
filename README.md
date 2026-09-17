@@ -86,9 +86,9 @@ Curious About:       Algorithms, Backend Engineering & Databases
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Md-Manam-Khan&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=86400" />
+<img src="https://github-stats-extended.vercel.app/api?username=Md-Manam-Khan&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=86400" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Manam-Khan&theme=tokyonight&hide_border=false&layout=compact&langs_count=8&cache_seconds=86400" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Md-Manam-Khan&theme=tokyonight&hide_border=false&layout=compact&langs_count=8&cache_seconds=86400" />
 
 </div>
 
