@@ -99,6 +99,8 @@ Self-made projects built outside of coursework purely to practice and experiment
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 </p>
 
 **Platforms & Tools**
@@ -110,6 +112,40 @@ Self-made projects built outside of coursework purely to practice and experiment
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 🏆 Competitive Programming Profiles
+
+<p align="left">
+  <a href="https://codeforces.com/profile/Manam_the_Wildfire">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://judge.beecrowd.com/en/profile/1208838">
+    <img src="https://img.shields.io/badge/Beecrowd-004C8C?style=flat-square&logoColor=white" alt="Beecrowd"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/ManamtheWildfire">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://atcoder.jp/users/Manam_Wildfire">
+    <img src="https://img.shields.io/badge/AtCoder-222222?style=flat-square&logo=atcoder&logoColor=white" alt="AtCoder"/>
+  </a>
+  <a href="https://leetcode.com/u/Manam_the_Wildfire/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://toph.co/u/shafilkhan66">
+    <img src="https://img.shields.io/badge/Toph-3D8EB9?style=flat-square&logoColor=white" alt="Toph"/>
+  </a>
+  <a href="https://lightoj.com/user/wildfire79">
+    <img src="https://img.shields.io/badge/LightOJ-DA6C2E?style=flat-square&logoColor=white" alt="LightOJ"/>
+  </a>
+  <a href="https://www.codechef.com/users/manam_wildfire">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://cses.fi/user/450490">
+    <img src="https://img.shields.io/badge/CSES-1E88E5?style=flat-square&logoColor=white" alt="CSES"/>
+  </a>
 </p>
 
 ---
