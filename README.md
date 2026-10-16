@@ -167,6 +167,6 @@ Self-made projects built outside of coursework purely to practice and experiment
 
 *"Solve problems. Build things. Keep improving."*
 
-<img src="https://komarev.com/ghpvc/?username=Md-Manam-Khan&style=flat-square&color=5b8dee" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Md-Manam-Khan-2026&style=flat-square&color=5b8dee" alt="Profile Views"/>
 
 </div>
