@@ -147,6 +147,9 @@ Self-made projects built outside of coursework purely to practice and experiment
   <a href="https://cses.fi/user/450490">
     <img src="https://img.shields.io/badge/CSES-1E88E5?style=flat-square&logoColor=white" alt="CSES"/>
   </a>
+  <a href="https://icpc.global/ICPCID/NUAX9RFZ3LEF">
+    <img src="https://img.shields.io/badge/ICPC-2XECBC?style=flat-square&logoColor=white" alt="ICPC"/>
+  </a>
 </p>
 
 ---
