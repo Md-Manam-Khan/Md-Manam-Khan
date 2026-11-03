@@ -25,10 +25,10 @@ I like turning ideas into working projects, learning through implementation rath
 ### 🚀 What I'm Up To
 
 ```yaml
-Problem Solving:     C++, DSA — regular practice on Codeforces, CSES, Beecrowd, HackerRank
-Software Building:   Android (Java + Firebase), PHP/MySQL web apps, JavaScript
-Currently Learning:  Backend development, database-driven systems, frontend interactivity
-Long-term Goal:      Becoming a well-rounded software engineer, built on a CP foundation
+Problem Solving                     : C++, DSA — regular practice on Codechef, Codeforces, Leetcode
+Currently Learning and Implementing : Backend development, database-driven systems, frontend interactivity
+Currently Working On                : CakeCraft
+Long-term Goal                      : Becoming a well-rounded software engineer, built on a CP foundation
 ```
 
 The way I see it: solve problems → learn the underlying concepts → build something real with them → experiment → break it → improve.
