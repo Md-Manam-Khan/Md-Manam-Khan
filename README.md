@@ -120,7 +120,7 @@ Self-made projects built outside of coursework purely to practice and experiment
 ### 🏆 Competitive Programming Profiles
 
 <p align="left">
-  <a href="https://codeforces.com/profile/Manam_the_Wildfire">
+  <a href="https://codeforces.com/profile/Nightwing_79">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="https://judge.beecrowd.com/en/profile/1208838">
